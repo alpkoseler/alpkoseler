@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @alpkoseler
 - 👀 I’m interested in Mobile Games.
-- 🌱 I’m currently learning Unity & C#.
+- 🌱 I’m currently learning Unity & C# and .Net Core
 - 📫 How to reach me "alpkoseler@gmail.com" / "instagram.com/alpkoseler"
